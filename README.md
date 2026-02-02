@@ -1,78 +1,51 @@
 ## Hi there 👋 I'm Ishwor Subedi
 
-📊 **Aspiring Data Analyst | Power BI • Python • SQL**
-
-I am a data-driven problem solver with hands-on experience in data analysis, visualization, and dashboard development. I enjoy transforming raw data into meaningful insights that support business decisions and storytelling.
-
----
-
-## 🔭 Currently Working On
-- End-to-end **data analytics projects**
-- **Interactive Power BI dashboards** with business KPIs
-- Retail, sales, and public-sector datasets
-- Finalizing a strong **data analyst portfolio**
+### 📊 Aspiring Data Analyst from Nepal  
+Focused on turning data into clear insights through analysis and visualization.
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **Power BI & DAX**
-- **Statistical analysis** for real-world use cases
-- **Python** for data analysis (NumPy, Pandas, Matplotlib, Seaborn)
-- Data modeling and optimization techniques
-
----
-
-## 👯 Looking to Collaborate On
-- Data analysis & visualization projects
-- Power BI dashboard development
-- Business case studies using real datasets
-- Open-source data analytics projects
-
----
-
-## 💬 Ask Me About
-- Power BI dashboards & DAX concepts  
-- Data visualization best practices  
-- Python for data analysis  
-- KPI design and business insights  
+## 🧠 About Me
+- Interested in **data analysis, visualization, and business insights**
+- Experience building **Power BI dashboards and analytics projects**
+- Strong foundation in **Python, SQL, and statistics**
+- Actively improving my **portfolio for data analyst roles**
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Languages & Analysis**
-- Python
-- SQL
-- Statistics
-
-**Data Visualization**
-- Power BI
-- Excel
-- Matplotlib
-- Seaborn
-
-**Libraries & Tools**
-- Pandas
-- NumPy
-- Git & GitHub
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
-- **Retail Store Dashboard** – Sales KPIs, profit analysis, and insights  
-- **Spotify Analytics Dashboard** – Listening trends and engagement metrics  
-- **Census & Demographic Analysis** – Population insights using public data  
-- **Business Performance Dashboards** – Actionable insights for decision-making  
+## 📂 Projects
+- **Retail Store Dashboard** – Sales, profit & KPI analysis  
+- **Spotify Analytics Dashboard** – Listening behavior insights  
+- **Census Data Analysis** – Population & demographic insights  
+- **Business Performance Dashboards** – Data-driven recommendations  
 
-(Projects available in my repositories 👇)
+(See repositories below 👇)
 
 ---
 
-## 📫 How to Reach Me
+## 🌱 Currently Learning
+- Advanced **Power BI (DAX & data modeling)**
+- **Statistical analysis** for real-world datasets
+- Improving **data storytelling**
+
+---
+
+## 📫 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/ishwor-subedi-55613632a/
 - **GitHub:** https://github.com/ishnom
 
 ---
 
-## ⚡ Fun Fact
-I enjoy cleaning messy datasets more than scrolling social media 📈
+⭐ *Always learning, always improving through data.*
