@@ -1,19 +1,49 @@
-## Hi there 👋 I'm Ishwor Subedi
+## Ishwor Subedi
 
-### 📊 Aspiring Data Analyst from Nepal  
-Focused on turning data into clear insights through analysis and visualization.
+### Aspiring Data Analyst from Nepal
 
----
-
-## 🧠 About Me
-- Interested in **data analysis, visualization, and business insights**
-- Experience building **Power BI dashboards and analytics projects**
-- Strong foundation in **Python, SQL, and statistics**
-- Actively improving my **portfolio for data analyst roles**
+Data analyst with a strong foundation in statistics, probability, and data visualization.  
+Experienced in building business-focused dashboards and delivering actionable insights using structured data.
 
 ---
 
-## 🛠️ Skills & Tools
+## Professional Summary
+- Strong understanding of **statistics and probability** for data-driven decision making  
+- Hands-on experience with **data analysis, cleaning, and transformation**
+- Skilled in **business analytics and KPI-based dashboard design**
+- Focused on converting complex datasets into clear, actionable insights
+
+---
+
+## Technical Skills
+
+**Data Analysis & Programming**
+- Python
+- SQL
+- NumPy
+- Pandas
+
+**Statistics & Mathematics**
+- Descriptive Statistics
+- Probability
+- Hypothesis Testing
+- Data Interpretation
+
+**Data Visualization**
+- Power BI
+- Matplotlib
+- Seaborn
+- Excel Dashboards
+
+**Business Analytics**
+- KPI Design
+- Performance Analysis
+- Sales & Retail Analytics
+- Insight-driven Reporting
+
+---
+
+## Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -25,27 +55,23 @@ Focused on turning data into clear insights through analysis and visualization.
 
 ---
 
-## 📂 Projects
-- **Retail Store Dashboard** – Sales, profit & KPI analysis  
-- **Spotify Analytics Dashboard** – Listening behavior insights  
-- **Census Data Analysis** – Population & demographic insights  
-- **Business Performance Dashboards** – Data-driven recommendations  
+## Projects & Work
+- Business and **retail analytics dashboards**
+- KPI-driven **Power BI reports**
+- **Statistical analysis** on real-world datasets
+- Data visualization using **Matplotlib and Seaborn**
 
-(See repositories below 👇)
-
----
-
-## 🌱 Currently Learning
-- Advanced **Power BI (DAX & data modeling)**
-- **Statistical analysis** for real-world datasets
-- Improving **data storytelling**
+(Projects available in repositories)
 
 ---
 
-## 📫 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/ishwor-subedi-55613632a/
-- **GitHub:** https://github.com/ishnom
+## Currently Focused On
+- Advanced Power BI (DAX, data modeling)
+- Business analytics case studies
+- Improving analytical depth and storytelling
 
 ---
 
-⭐ *Always learning, always improving through data.*
+## Contact
+- LinkedIn: https://www.linkedin.com/in/ishwor-subedi-55613632a/
+- GitHub: https://github.com/ishnom
