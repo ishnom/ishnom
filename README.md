@@ -1,5 +1,3 @@
-![Profile Header](https://img.shields.io/badge/Data%20Analyst-%23FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtc2l6ZT0iNDgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZHk9Ii4zZW0iPvCdkZDwnZGU8J2RkPA==</tspan></text></svg>)
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrMEtQaa/giphy.gif" width="28" alt="wave"/> 
   Ishwor Subedi
@@ -73,7 +71,7 @@ I'm a passionate **Data Analyst** with a proven ability to leverage analytics, d
 |----------|--------|
 | **Data Analysis** | Statistics, Probability, Hypothesis Testing, Correlation Analysis, Trend Analysis |
 | **Mathematics** | Linear Algebra, Calculus, Multivariate Analysis, KPI Development |
-| **Tools** | Power BI, Tableau, Excel (Advanced), Jupyter Notebook, SQL Workbench |
+| **Tools** | Power BI, Excel (Advanced), Jupyter Notebook, SQL Workbench |
 | **Business** | Dashboard Development, Report Generation, Data Storytelling, Process Optimization |
 
 ---
@@ -93,10 +91,10 @@ I'm a passionate **Data Analyst** with a proven ability to leverage analytics, d
       Store Dashboard
     </td>
     <td align="center" width="23%">
-      <img src="loan report.png" alt="Loan Analysis Dashboard" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); aspect-ratio: 4/3; object-fit: cover;"/>
+      <img src="spotify.png" alt="Spotify Analytics Dashboard" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); aspect-ratio: 4/3; object-fit: cover;"/>
       <br/>
-      <b>💳 Loan Analysis</b><br/>
-      Credit Dashboard
+      <b>🎵 Spotify Analytics</b><br/>
+      Music Insights
     </td>
     <td align="center" width="23%">
       <img src="population.png" alt="Population & Census Analysis" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); aspect-ratio: 4/3; object-fit: cover;"/>
@@ -105,10 +103,10 @@ I'm a passionate **Data Analyst** with a proven ability to leverage analytics, d
       Census Analysis
     </td>
     <td align="center" width="23%">
-      <img src="spotify.png" alt="Spotify Analytics Dashboard" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); aspect-ratio: 4/3; object-fit: cover;"/>
+      <img src="loan report.png" alt="Loan Analysis Dashboard" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); aspect-ratio: 4/3; object-fit: cover;"/>
       <br/>
-      <b>🎵 Spotify Analytics</b><br/>
-      Music Insights
+      <b>💳 Loan Analysis</b><br/>
+      Credit Dashboard
     </td>
   </tr>
 </table>
