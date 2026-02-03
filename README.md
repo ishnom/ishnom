@@ -1,92 +1,58 @@
-<h1 align="center">Hi, I'm Ishwor Subedi 👋</h1>
+<h1 align="center">Ishwor Subedi</h1>
 
 <p align="center">
-Aspiring <b>Data Analyst</b> focused on transforming data into clear insights through analytics, visualization, and business intelligence.
+<b>Data Analyst</b> | Analytics • Visualization • Business Intelligence
 </p>
 
 ---
 
-## 🧠 About Me
-- Data Analyst with hands-on experience in **Python, SQL, Power BI, Excel**
-- Strong foundation in **Statistics, Probability, and Linear Algebra**
-- Passionate about **data-driven decision making & business insights**
-- Experienced in building **interactive dashboards and analytical reports**
+## 👋 About Me
+Data Analyst with hands-on experience in **Python, SQL, Power BI, and Excel**,  
+strong foundation in **Statistics, Probability, and Linear Algebra**, and a focus on  
+**turning data into actionable business insights**.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠 Skills & Technologies
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="38"/>
+  <img src="https://img.icons8.com/color/48/ms-excel.png" height="38"/>
 </p>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/power-bi.png"/>
-  <img src="https://img.icons8.com/color/48/ms-excel.png"/>
-</p>
+**Data & Visualization**
+- Power BI Dashboards • Excel Reporting  
+- Matplotlib • Seaborn • Data Visualization  
 
-**Analytics & Visualization**
-- Power BI Dashboards
-- Excel Reporting
-- Matplotlib & Seaborn
-- Data Visualization & Storytelling
-
-**Mathematics & Statistics**
+**Math & Statistics**
 - Statistics & Probability  
 - Linear Algebra  
-- Data Interpretation & KPI Analysis  
+- KPI & Trend Analysis  
 
 ---
 
-## 📊 Featured Projects
+## 📊 Projects
 
-### 🏪 Retail Store Performance Dashboard
 <p align="center">
-  <img src="retail dashboard.png" width="90%"/>
+  <img src="retail dashboard.png" width="22%" title="Retail Store Dashboard"/>
+  <img src="loan report.png" width="22%" title="Loan Analysis Dashboard"/>
+  <img src="population.png" width="22%" title="Population & Census Analysis"/>
+  <img src="spotify.png" width="22%" title="Spotify Analytics Dashboard"/>
 </p>
 
-**KPIs:** Total Sales · Orders · Profit · Margin · Discount Impact  
-**Tools:** Power BI · Excel · SQL
-
----
-
-### 💰 Loan Analysis Dashboard
 <p align="center">
-  <img src="loan report.png" width="90%"/>
+Retail Performance • Loan Analysis • Population Insights • Spotify Analytics
 </p>
 
-**Focus:** Loan distribution, risk insights, borrower trends  
-**Tools:** Power BI · Excel
-
 ---
 
-### 👥 Population & Census Analysis
-<p align="center">
-  <img src="population.png" width="90%"/>
-</p>
-
-**Focus:** Demographics, gender distribution, regional insights  
-**Tools:** Power BI · Statistics
-
----
-
-### 🎧 Spotify Analytics Dashboard
-<p align="center">
-  <img src="spotify.png" width="90%"/>
-</p>
-
-**Focus:** Listening trends, albums, artists, time analysis  
-**Tools:** Power BI · DAX
-
----
-
-## 📬 Connect With Me
+## 📬 Connect
 - **GitHub:** https://github.com/ishnom  
 - **LinkedIn:** https://www.linkedin.com/in/ishwor-subedi-55613632a/
 
 ---
-⭐ *Always learning. Always improving.*
+⭐ *Focused on learning, building, and delivering data-driven insights.*
