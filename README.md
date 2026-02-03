@@ -1,51 +1,92 @@
-## Hi there 👋 I'm Ishwor Subedi
+<h1 align="center">Hi, I'm Ishwor Subedi 👋</h1>
 
-### 📊 Aspiring Data Analyst from Nepal  
-Focused on turning data into clear insights through analysis and visualization.
-
----
-
-## 🧠 About Me
-- Interested in **data analysis, visualization, and business insights**
-- Experience building **Power BI dashboards and analytics projects**
-- Strong foundation in **Python, SQL, and statistics**
-- Actively improving my **portfolio for data analyst roles**
-
----
-
-## 🛠️ Skills & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<p align="center">
+Aspiring <b>Data Analyst</b> focused on transforming data into clear insights through analytics, visualization, and business intelligence.
 </p>
 
 ---
 
-## 📂 Projects
-- **Retail Store Dashboard** – Sales, profit & KPI analysis  
-- **Spotify Analytics Dashboard** – Listening behavior insights  
-- **Census Data Analysis** – Population & demographic insights  
-- **Business Performance Dashboards** – Data-driven recommendations  
-
-(See repositories below 👇)
+## 🧠 About Me
+- Data Analyst with hands-on experience in **Python, SQL, Power BI, Excel**
+- Strong foundation in **Statistics, Probability, and Linear Algebra**
+- Passionate about **data-driven decision making & business insights**
+- Experienced in building **interactive dashboards and analytical reports**
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **Power BI (DAX & data modeling)**
-- **Statistical analysis** for real-world datasets
-- Improving **data storytelling**
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45"/>
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img src="https://img.icons8.com/color/48/ms-excel.png"/>
+</p>
+
+**Analytics & Visualization**
+- Power BI Dashboards
+- Excel Reporting
+- Matplotlib & Seaborn
+- Data Visualization & Storytelling
+
+**Mathematics & Statistics**
+- Statistics & Probability  
+- Linear Algebra  
+- Data Interpretation & KPI Analysis  
 
 ---
 
-## 📫 Connect With Me
+## 📊 Featured Projects
+
+### 🏪 Retail Store Performance Dashboard
+<p align="center">
+  <img src="retail dashboard.png" width="90%"/>
+</p>
+
+**KPIs:** Total Sales · Orders · Profit · Margin · Discount Impact  
+**Tools:** Power BI · Excel · SQL
+
+---
+
+### 💰 Loan Analysis Dashboard
+<p align="center">
+  <img src="loan report.png" width="90%"/>
+</p>
+
+**Focus:** Loan distribution, risk insights, borrower trends  
+**Tools:** Power BI · Excel
+
+---
+
+### 👥 Population & Census Analysis
+<p align="center">
+  <img src="population.png" width="90%"/>
+</p>
+
+**Focus:** Demographics, gender distribution, regional insights  
+**Tools:** Power BI · Statistics
+
+---
+
+### 🎧 Spotify Analytics Dashboard
+<p align="center">
+  <img src="spotify.png" width="90%"/>
+</p>
+
+**Focus:** Listening trends, albums, artists, time analysis  
+**Tools:** Power BI · DAX
+
+---
+
+## 📬 Connect With Me
+- **GitHub:** https://github.com/ishnom  
 - **LinkedIn:** https://www.linkedin.com/in/ishwor-subedi-55613632a/
-- **GitHub:** https://github.com/ishnom
 
 ---
-
-⭐ *Always learning, always improving through data.*
+⭐ *Always learning. Always improving.*
