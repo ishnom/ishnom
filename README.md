@@ -76,7 +76,7 @@ I'm a passionate **Data Analyst** with a proven ability to leverage analytics, d
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
