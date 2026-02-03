@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  📊 Data Analyst | 📈 Business Intelligence | 🎯 Analytics Specialist
+  📊 Data Analyst | 📈 Business Intelligence | 📚 Analytics Specialist
 </h3>
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 ---
 
-## 👨‍💼 About Me
+##  About Me
 
 I'm a passionate **Data Analyst** with a proven ability to leverage analytics, data visualization, and business intelligence tools to drive strategic decisions. With expertise in **Python, SQL, Power BI, and advanced Excel**, I specialize in discovering patterns, building compelling dashboards, and delivering data-driven recommendations that directly impact business growth.
 
-**🎯 Key Strengths:**
+** Key Strengths:**
 - 📊 Advanced Data Analysis & Statistical Modeling
 - 🎨 Interactive Dashboard & Report Development  
 - 💡 Business Intelligence & Strategic Insights
@@ -32,7 +32,7 @@ I'm a passionate **Data Analyst** with a proven ability to leverage analytics, d
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 ### **Core Technologies**
 <p align="center">
@@ -115,7 +115,7 @@ I'm a passionate **Data Analyst** with a proven ability to leverage analytics, d
 
 ---
 
-## 📈 What I Do
+##  What I Do
 
 <table>
   <tr>
@@ -142,7 +142,7 @@ I'm a passionate **Data Analyst** with a proven ability to leverage analytics, d
 
 ---
 
-## 🌟 Highlights
+##  Highlights
 
 <p align="center">
   <img src="https://img.shields.io/badge/Expertise-Statistics%20%26%20Probability-blueviolet?style=flat-square"/>
@@ -153,7 +153,7 @@ I'm a passionate **Data Analyst** with a proven ability to leverage analytics, d
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -173,6 +173,6 @@ I'm a passionate **Data Analyst** with a proven ability to leverage analytics, d
 
 <div align="center">
 
-### ⭐ *Passionate about transforming data into decisions.*
+### *Passionate about transforming data into decisions.*
 
 </div>
