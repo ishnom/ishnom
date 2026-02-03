@@ -177,8 +177,4 @@ I'm a passionate **Data Analyst** with a proven ability to leverage analytics, d
 
 ### ⭐ *Passionate about transforming data into decisions.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=ishworsubedi&style=flat-square&color=blue)
-
-**Made with ❤️ | Last Updated: February 2026**
-
 </div>
