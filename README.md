@@ -76,7 +76,7 @@ I'm a passionate **Data Analyst** with a proven ability to leverage analytics, d
 
 ---
 
-##  Featured Projects
+## 📊 Featured Projects
 
 <div align="center">
 
@@ -85,25 +85,33 @@ I'm a passionate **Data Analyst** with a proven ability to leverage analytics, d
 <table>
   <tr>
     <td align="center" width="23%">
-      <img src="retail dashboard.png" alt="Retail Store Dashboard" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); aspect-ratio: 4/3; object-fit: cover;"/>
+      <a href="https://github.com/ishnom/Retail-Store-Performance-Dashboard" target="_blank" rel="noreferrer">
+        <img src="retail dashboard.png" alt="Retail Store Dashboard" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); aspect-ratio: 4/3; object-fit: cover;"/>
+      </a>
       <br/>
       <b>🛍️ Retail Performance</b><br/>
       Store Dashboard
     </td>
     <td align="center" width="23%">
-      <img src="spotify.png" alt="Spotify Analytics Dashboard" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); aspect-ratio: 4/3; object-fit: cover;"/>
+      <a href="https://github.com/ishnom/spotify-analytics-dashboards" target="_blank" rel="noreferrer">
+        <img src="spotify.png" alt="Spotify Analytics Dashboard" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); aspect-ratio: 4/3; object-fit: cover;"/>
+      </a>
       <br/>
       <b>🎵 Spotify Analytics</b><br/>
       Music Insights
     </td>
     <td align="center" width="23%">
-      <img src="population.png" alt="Population & Census Analysis" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); aspect-ratio: 4/3; object-fit: cover;"/>
+      <a href="https://github.com/ishnom/Population-Analytics-Nepal-PowerBI" target="_blank" rel="noreferrer">
+        <img src="population.png" alt="Population & Census Analysis" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); aspect-ratio: 4/3; object-fit: cover;"/>
+      </a>
       <br/>
       <b>👥 Population Insights</b><br/>
       Census Analysis
     </td>
     <td align="center" width="23%">
-      <img src="loan report.png" alt="Loan Analysis Dashboard" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); aspect-ratio: 4/3; object-fit: cover;"/>
+      <a href="https://github.com/ishnom/Loan-Insights-Analytics-Dashboard" target="_blank" rel="noreferrer">
+        <img src="loan report.png" alt="Loan Analysis Dashboard" width="100%" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); aspect-ratio: 4/3; object-fit: cover;"/>
+      </a>
       <br/>
       <b>💳 Loan Analysis</b><br/>
       Credit Dashboard
