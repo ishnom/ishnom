@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 Ishwor Subedi
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2500&pause=1200&color=2E86AB&center=true&vCenter=true&width=640&lines=Code.+Automate.+Analyze.;Solving+the+problem+beats+just+shipping+the+feature.;One+partner+instead+of+three+freelancers." alt="Typing animation" />
 
