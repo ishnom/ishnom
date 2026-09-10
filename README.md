@@ -61,9 +61,9 @@ Scattered numbers turned into dashboards that keep answering the same question o
 
 <a href="https://openclaw.ai"><img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-banner-dark.png" width="200" alt="OpenClaw" /></a>
 
-**Data, BI & Infra**
+**Data, BI & Tools**
 
-<img src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23F2C811&height=32" alt="Power BI" title="Power BI" height="32" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,git,github,aws,gcp,vercel" alt="Data and infra stack" />
+<img src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23F2C811&height=32" alt="Power BI" title="Power BI" height="32" />&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/pandas.svg?color=%23150458&height=32" alt="Pandas" title="Pandas" height="32" />&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/numpy.svg?color=%23013243&height=32" alt="NumPy" title="NumPy" height="32" />&nbsp;&nbsp;<img src="https://api.iconify.design/devicon/matplotlib.svg?height=32" alt="Matplotlib" title="Matplotlib" height="32" />&nbsp;&nbsp;<img src="https://api.iconify.design/devicon/seaborn.svg?height=32" alt="Seaborn" title="Seaborn" height="32" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github,docker" alt="GitHub and Docker" />
 
 <sub>Framework agnostic by design. The stack above is what I reach for most, not the limit of what I work in.</sub>
 
