@@ -79,13 +79,13 @@ Scattered numbers turned into dashboards that keep answering the same question o
 
 <div align="center">
 <a href="https://doersnepal.com">
-  <img src="doers.png" width="280" alt="Doers Nepal screenshot" />
+  <img src="doers.png" width="380" alt="Doers Nepal screenshot" />
 </a>
 </div>
 
-The Doers is a podcast and expert consultation platform connecting people in Nepal with accomplished practitioners, through conversations, training, and direct consulting. This is the project I'm most proud of. The entire backend is built by me, including the system that automates the platform's articles and insights. Around 80 percent of that content pipeline runs without manual writing, from generation through publishing.
+The Doers is a podcast and expert consultation platform connecting people in Nepal with accomplished practitioners, through conversations, training, and direct consulting. This is the project I'm most proud of, with the entire backend built by me, including the pipeline that automates about 80 percent of its articles and insights.
 
-**My role:** backend architecture, content automation pipeline, and the systems behind the platform's articles and insights.
+**My role:** backend architecture and the content automation pipeline, all built by me.
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,postgres,python" alt="Doers Nepal tech" />&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/rasa.svg?color=%235A17EE&height=32" alt="Rasa" title="Rasa" height="32" />
 
@@ -96,7 +96,7 @@ The Doers is a podcast and expert consultation platform connecting people in Nep
 
 <div align="center">
 <a href="https://viewfinders.studio">
-  <img src="viewfinders.png" width="280" alt="ViewFinders Studio screenshot" />
+  <img src="viewfinders.png" width="380" alt="ViewFinders Studio screenshot" />
 </a>
 </div>
 
