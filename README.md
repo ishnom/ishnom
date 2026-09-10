@@ -81,7 +81,7 @@ The Doers is a podcast and expert consultation platform connecting people in Nep
 
 **My role:** backend architecture, content automation pipeline, and the systems behind the platform's articles and insights.
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,python" alt="Doers Nepal tech" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,postgres,python" alt="Doers Nepal tech" />&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/rasa.svg?color=%235A17EE&height=32" alt="Rasa" title="Rasa" height="32" />
 
 <br>
 
