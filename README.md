@@ -71,11 +71,15 @@ Scattered numbers turned into dashboards that keep answering the same question o
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### [Doers Nepal](https://doersnepal.com)
 
 <div align="center">
 <a href="https://doersnepal.com">
-  <img src="doers.png" width="500" alt="Doers Nepal screenshot" />
+  <img src="doers.png" width="280" alt="Doers Nepal screenshot" />
 </a>
 </div>
 
@@ -85,13 +89,14 @@ The Doers is a podcast and expert consultation platform connecting people in Nep
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,postgres,python" alt="Doers Nepal tech" />&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/rasa.svg?color=%235A17EE&height=32" alt="Rasa" title="Rasa" height="32" />
 
-<br>
+</td>
+<td width="50%" valign="top">
 
 ### [ViewFinders Studio](https://viewfinders.studio)
 
 <div align="center">
 <a href="https://viewfinders.studio">
-  <img src="viewfinders.png" width="500" alt="ViewFinders Studio screenshot" />
+  <img src="viewfinders.png" width="280" alt="ViewFinders Studio screenshot" />
 </a>
 </div>
 
@@ -100,6 +105,10 @@ Viewfinders is a strategic content and media production studio based in Kathmand
 **My role:** backend, frontend, and visual design, all built by me.
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs" alt="ViewFinders Studio tech" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
