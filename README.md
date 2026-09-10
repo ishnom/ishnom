@@ -74,7 +74,7 @@ Scattered numbers turned into dashboards that keep answering the same question o
 ### [Doers Nepal](https://doersnepal.com)
 
 <a href="https://doersnepal.com">
-  <img src="assets/doers-nepal-cover.png" width="100%" alt="Doers Nepal screenshot" />
+  <img src="doers.png" />
 </a>
 
 The Doers is a podcast and expert consultation platform connecting people in Nepal with accomplished practitioners, through conversations, training, and direct consulting. This is the project I'm most proud of. The entire backend is built by me, including the system that automates the platform's articles and insights. Around 80 percent of that content pipeline runs without manual writing, from generation through publishing.
@@ -88,7 +88,7 @@ The Doers is a podcast and expert consultation platform connecting people in Nep
 ### [ViewFinders Studio](https://viewfinders.studio)
 
 <a href="https://viewfinders.studio">
-  <img src="doers.png" />
+  <img src="viewfinders.png" />
 </a>
 
 Viewfinders is a strategic content and media production studio based in Kathmandu, working across video production, brand storytelling, and digital strategy for clients in fintech, FMCG, healthcare, and education. I built this one solo end to end.
