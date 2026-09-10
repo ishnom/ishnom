@@ -4,43 +4,38 @@ Ishwor Subedi
 
 Full stack products, the automation sitting between your tools, and the dashboards that turn your data into a decision, all built by one person instead of three freelancers who each own a different piece.
 
-I might be busy building. My AI agent knows the details. Talk to it →
-
 Email LinkedIn X Portfolio
 
 </div> <br>
 About
 
-I started as a data analyst, working in Python, SQL, and Power BI to turn raw numbers into KPIs a business could act on. That work kept running into the same wall: the insight was only as good as the pipeline feeding it, and the pipeline was usually duct taped together by hand. So I moved upstream. Today I build the full stack app, the automation that keeps it fed with clean data, and the analytics layer on top, as one connected system rather than three separate handoffs.
-
-That's the pitch behind working with me directly instead of splitting a project across a developer, an automation contractor, and a data analyst: one person who already understands how the frontend, the backend, the automated pipelines, and the resulting metrics all fit together.
+Full stack developer, automation builder, and data analyst, in one person. I write the frontend and backend, automate the pipeline that feeds them, and build the dashboard that shows whether any of it actually worked.
 
 <br>
 Why This, Now
+<img src="https://api.iconify.design/mdi/lightbulb-on-outline.svg?color=%232E86AB&height=28" alt="" />
 
-Software used to be a craft. You earned the how through years of syntax, architecture, and debugging scars. Before that even, shipping something that worked at all was an achievement on its own. It still is. But AI has closed most of the gap on the how. Writing the code is no longer the hard part.
-
-What's still hard: knowing what to build, and why. Building software and solving a problem are two different skills, and only one of them got easier. So I've stopped competing on typing speed. I start at the problem, let AI handle the parts of the how that no longer need a human doing them by hand, and spend the time I get back on making sure what ships is actually the right thing.
+AI has closed most of the gap on the how of writing software. What's still hard is knowing what to build, and why. Building and problem solving are different skills, and only one of them got easier, so that's where I spend the time AI gives back.
 
 <br>
 What I Build
 
 Three areas, one throughline: the problem gets solved first, the stack gets picked second.
 
-<table> <tr> <td width="33%" valign="top">
+<table> <tr> <td width="33%" valign="top"> <img src="https://api.iconify.design/mdi/code-braces.svg?color=%232E86AB&height=32" alt="" />
 Development
 
-Full stack products end to end, from the first line of code to a live release. Web apps built with Next.js and React on the front end and Django or FastAPI on the back end. REST APIs designed to scale with the product rather than against it. MVPs shipped fast, then improved from real user feedback instead of guesses.
+Full stack products end to end: Next.js and React on the front, Django or FastAPI on the back, shipped as working APIs and MVPs, not just demos.
 
-</td> <td width="33%" valign="top">
+</td> <td width="33%" valign="top"> <img src="https://api.iconify.design/mdi/robot-outline.svg?color=%232E86AB&height=32" alt="" />
 Automation
 
-The repetitive work sitting between the tools a team already uses: moving data between systems, chasing status updates, assembling the same report every week. Workflow automation connecting existing tools together, AI features embedded directly into a product or internal tool, and custom scripts and pipelines that keep running quietly in the background long after setup.
+The repetitive work between the tools a team already uses: workflows connected, AI features embedded, scripts and pipelines running quietly in the background.
 
-</td> <td width="33%" valign="top">
+</td> <td width="33%" valign="top"> <img src="https://api.iconify.design/mdi/chart-line.svg?color=%232E86AB&height=32" alt="" />
 Data & Analysis
 
-Turning scattered numbers into a clear next step. A business question gets translated into a data answer, and the data answer into a recommendation, then wired into a dashboard so the same question keeps getting answered automatically. Dashboards, automated reporting, and business analysis that removes the manual spreadsheet step entirely.
+Scattered numbers turned into dashboards and automated reporting, wired once so the same question keeps getting answered on its own.
 
 </td> </tr> </table> <br>
 Tech Stack
@@ -110,6 +105,6 @@ Let's Build Something
 
 Got a problem worth solving, not just a feature to ship? That's exactly where I work: the product, the automation behind it, and the dashboard that proves it worked.
 
-Talk to my AI agent →  •  Email me  •  LinkedIn
+Email me  •  LinkedIn
 
 </div>
