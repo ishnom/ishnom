@@ -108,3 +108,10 @@ Got a problem worth solving, not just a feature to ship? That's exactly where I 
 Email me  •  LinkedIn
 
 </div>
+
+See task progress for longer tasks.
+
+README.md
+github-profile-readme.md
+Connectors
+Web search
