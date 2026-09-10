@@ -6,8 +6,8 @@ Full stack products, the automation sitting between your tools, and the dashboar
 
 <a href="mailto:ishworsubedinetwork@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" height="45" /></a>
 <a href="https://www.linkedin.com/in/ishwor-subedi-55613632a/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" height="45" /></a>
-<a href="https://x.com/ishwoorr"><img src="https://skillicons.dev/icons?i=twitter" alt="X" title="X" height="45" /></a>
-<a href="https://i-subedi.com.np"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" title="Portfolio" height="45" /></a>
+<a href="https://x.com/ishwoorr"><img src="https://api.iconify.design/simple-icons/x.svg?color=%23ffffff&height=45" alt="X" title="X" height="45" /></a>
+<a href="https://i-subedi.com.np"><img src="https://api.iconify.design/mdi/web.svg?color=%232E86AB&height=45" alt="Portfolio" title="Portfolio" height="45" /></a>
 
 </div>
 
@@ -15,21 +15,7 @@ Full stack products, the automation sitting between your tools, and the dashboar
 
 ## About
 
-Full stack developer, automation builder, and data analyst, in one person. I write the frontend and backend, automate the pipeline that feeds them, and build the dashboard that shows whether any of it actually worked.
-
-<br>
-
-## Why This, Now
-
-<img src="https://api.iconify.design/mdi/lightbulb-on-outline.svg?color=%232E86AB&height=28" alt="" />
-
-AI has closed most of the gap on the how of writing software. What's still hard is knowing what to build, and why. Building and problem solving are different skills, and only one of them got easier, so that's where I spend the time AI gives back.
-
-<br>
-
-## What I Build
-
-Three areas, one throughline: the problem gets solved first, the stack gets picked second.
+Full stack developer, automation builder, and data analyst, in one person. AI made the how of writing software easy, so I spend my time on the part that didn't get easier: deciding what's actually worth building.
 
 <table>
 <tr>
@@ -37,27 +23,24 @@ Three areas, one throughline: the problem gets solved first, the stack gets pick
 
 <img src="https://api.iconify.design/mdi/code-braces.svg?color=%232E86AB&height=32" alt="" />
 
-### Development
-
-Full stack products end to end: Next.js and React on the front, Django or FastAPI on the back, shipped as working APIs and MVPs, not just demos.
+**Development**
+Next.js and React up front, Django or FastAPI behind it, shipped as real APIs and MVPs.
 
 </td>
 <td width="33%" valign="top">
 
 <img src="https://api.iconify.design/mdi/robot-outline.svg?color=%232E86AB&height=32" alt="" />
 
-### Automation
-
-The repetitive work between the tools a team already uses: workflows connected, AI features embedded, scripts and pipelines running quietly in the background.
+**Automation**
+The repetitive work between your tools, automated: workflows connected, AI features embedded, scripts running quietly in the background.
 
 </td>
 <td width="33%" valign="top">
 
 <img src="https://api.iconify.design/mdi/chart-line.svg?color=%232E86AB&height=32" alt="" />
 
-### Data & Analysis
-
-Scattered numbers turned into dashboards and automated reporting, wired once so the same question keeps getting answered on its own.
+**Data & Analysis**
+Scattered numbers turned into dashboards that keep answering the same question on their own.
 
 </td>
 </tr>
