@@ -4,10 +4,7 @@
 
 Full stack products, the automation sitting between your tools, and the dashboards that turn your data into a decision, all built by one person instead of three freelancers who each own a different piece.
 
-<a href="mailto:ishworsubedinetwork@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" height="45" /></a>
-<a href="https://www.linkedin.com/in/ishwor-subedi-55613632a/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" height="45" /></a>
-<a href="https://x.com/ishwoorr"><img src="https://api.iconify.design/simple-icons/x.svg?color=%23ffffff&height=45" alt="X" title="X" height="45" /></a>
-<a href="https://i-subedi.com.np"><img src="https://api.iconify.design/mdi/web.svg?color=%232E86AB&height=45" alt="Portfolio" title="Portfolio" height="45" /></a>
+<a href="mailto:ishworsubedinetwork@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" height="45" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ishwor-subedi-55613632a/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" height="45" /></a>&nbsp;&nbsp;<a href="https://x.com/ishwoorr"><img src="https://api.iconify.design/simple-icons/x.svg?color=%23ffffff&height=45" alt="X" title="X" height="45" /></a>&nbsp;&nbsp;<a href="https://i-subedi.com.np"><img src="https://api.iconify.design/mdi/web.svg?color=%232E86AB&height=45" alt="Portfolio" title="Portfolio" height="45" /></a>
 
 </div>
 
@@ -60,17 +57,13 @@ Scattered numbers turned into dashboards that keep answering the same question o
 
 **AI, Agents & Automation**
 
-<img src="https://api.iconify.design/logos/openai-icon.svg?height=32" alt="OpenAI" title="OpenAI" height="32" />
-<img src="https://api.iconify.design/simple-icons/anthropic.svg?color=%23D97757&height=32" alt="Anthropic Claude" title="Anthropic Claude" height="32" />
-<img src="https://api.iconify.design/mdi/api.svg?color=%232E86AB&height=32" alt="MCP" title="Model Context Protocol" height="32" />
-<img src="https://skillicons.dev/icons?i=notion" alt="Notion" />
+<img src="https://api.iconify.design/logos/openai-icon.svg?height=32" alt="OpenAI" title="OpenAI" height="32" />&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/anthropic.svg?color=%23D97757&height=32" alt="Anthropic Claude" title="Anthropic Claude" height="32" />&nbsp;&nbsp;<img src="https://api.iconify.design/mdi/api.svg?color=%232E86AB&height=32" alt="MCP" title="Model Context Protocol" height="32" />&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/n8n.svg?color=%23EA4B71&height=32" alt="n8n" title="n8n" height="32" />
 
 <a href="https://openclaw.ai"><img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-banner-dark.png" width="200" alt="OpenClaw" /></a>
 
 **Data, BI & Infra**
 
-<img src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23F2C811&height=32" alt="Power BI" title="Power BI" height="32" />
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,git,github,aws,gcp,vercel" alt="Data and infra stack" />
+<img src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23F2C811&height=32" alt="Power BI" title="Power BI" height="32" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,git,github,aws,gcp,vercel" alt="Data and infra stack" />
 
 <sub>Framework agnostic by design. The stack above is what I reach for most, not the limit of what I work in.</sub>
 
