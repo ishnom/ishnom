@@ -88,7 +88,7 @@ The Doers is a podcast and expert consultation platform connecting people in Nep
 ### [ViewFinders Studio](https://viewfinders.studio)
 
 <a href="https://viewfinders.studio">
-  <img src="assets/viewfinders-cover.png" width="100%" alt="ViewFinders Studio screenshot" />
+  <img src="doers.png" />
 </a>
 
 Viewfinders is a strategic content and media production studio based in Kathmandu, working across video production, brand storytelling, and digital strategy for clients in fintech, FMCG, healthcare, and education. I built this one solo end to end.
