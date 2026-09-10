@@ -1,7 +1,6 @@
-
-<div align="center">
+div align="center">
 Ishwor Subedi
-Code. Automate. Analyze.
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2500&pause=1200&color=2E86AB&center=true&vCenter=true&width=640&lines=Code.+Automate.+Analyze.;Solving+the+problem+beats+just+shipping+the+feature.;One+partner+instead+of+three+freelancers." alt="Typing animation" />
 
 Full stack products, the automation sitting between your tools, and the dashboards that turn your data into a decision, all built by one person instead of three freelancers who each own a different piece.
 
@@ -17,7 +16,17 @@ I started as a data analyst, working in Python, SQL, and Power BI to turn raw nu
 That's the pitch behind working with me directly instead of splitting a project across a developer, an automation contractor, and a data analyst: one person who already understands how the frontend, the backend, the automated pipelines, and the resulting metrics all fit together.
 
 <br>
+Why This, Now
+
+Software used to be a craft. You earned the how through years of syntax, architecture, and debugging scars. Before that even, shipping something that worked at all was an achievement on its own. It still is. But AI has closed most of the gap on the how. Writing the code is no longer the hard part.
+
+What's still hard: knowing what to build, and why. Building software and solving a problem are two different skills, and only one of them got easier. So I've stopped competing on typing speed. I start at the problem, let AI handle the parts of the how that no longer need a human doing them by hand, and spend the time I get back on making sure what ships is actually the right thing.
+
+<br>
 What I Build
+
+Three areas, one throughline: the problem gets solved first, the stack gets picked second.
+
 <table> <tr> <td width="33%" valign="top">
 Development
 
@@ -46,7 +55,9 @@ Backend & APIs
 
 AI, Agents & Automation
 
-Show Image Show Image Show Image Show Image <img src="https://skillicons.dev/icons?i=notion" alt="Notion" />
+Show Image Show Image Show Image <img src="https://skillicons.dev/icons?i=notion" alt="Notion" />
+
+<a href="https://openclaw.ai"><img src="https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-banner-dark.png" width="200" alt="OpenClaw" /></a>
 
 Data, BI & Infra
 
@@ -92,12 +103,12 @@ Show Image Show Image
 </td> </tr> </table> <br>
 AI & Automation Work
 
-Alongside the public projects above, I build AI agents and automation systems for clients as internal tooling, which means the repositories themselves stay private. The pattern across that work: LLM agents wired into a client's existing systems through tool calling and the Model Context Protocol, automating things like knowledge base and Notion workflows, internal reporting, and content operations that used to be manual. I'm showcasing the category here rather than the client work directly, out of respect for what's private.
+Alongside the public projects above, I build AI agents and automation systems for clients as internal tooling, which means the repositories themselves stay private. The pattern across that work: LLM agents (OpenAI and Claude) wired into a client's existing systems through tool calling, MCP, and agent harnesses like OpenClaw, automating things like Notion and knowledge base workflows, internal reporting, and content operations that used to be manual. I'm showcasing the category here rather than the client work directly, out of respect for what's private.
 
 <br> <div align="center">
 Let's Build Something
 
-Have a product to ship, a workflow to automate, or a dataset that should be answering questions on its own? That's exactly the gap I work in.
+Got a problem worth solving, not just a feature to ship? That's exactly where I work: the product, the automation behind it, and the dashboard that proves it worked.
 
 Talk to my AI agent →  •  Email me  •  LinkedIn
 
