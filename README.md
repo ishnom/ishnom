@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2500&pause=1200&color=2E86AB&center=true&vCenter=true&width=640&lines=Code.+Automate.+Analyze.;Former+data+analyst%2C+8-9+months+in.;Now+growing+into+development+and+automation." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2500&pause=1200&color=2E86AB&center=true&vCenter=true&width=640&lines=Code.+Automate.+Analyze.;Full+Stack+Developer.+Automation+Builder.+Data+Analyst.;Open+to+data+%26+business+analysis+too." alt="Typing animation" />
 
-8 to 9 months as a data analyst, working in Python, SQL, and Power BI. Now growing into full stack development and automation, building real products and pipelines instead of stopping at the report.
+Full stack developer, automation builder, and data analyst, all in one. Grounded in 8 to 9 months of hands on data analyst experience, still part of how I work today. Open to full stack development, automation, and data or business analysis opportunities.
 
-<a href="mailto:ishworsubedinetwork@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" height="45" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ishwor-subedi-55613632a/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" height="45" /></a>&nbsp;&nbsp;<a href="https://x.com/ishwoorr"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjQ1IiBoZWlnaHQ9IjQ1Ij48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHJ4PSI1IiBmaWxsPSIjMDAwMDAwIi8+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE4LjkwMSAxLjE1M2gzLjY4bC04LjA0IDkuMTlMMjQgMjIuODQ2aC03LjQwNmwtNS44LTcuNTg0LTYuNjM4IDcuNTg0SC40NzRsOC42LTkuODNMMCAxLjE1NGg3LjU5NGw1LjI0MyA2LjkzMlpNMTcuNjEgMjAuNjQ0aDIuMDM5TDYuNDg2IDMuMjRINC4yOThaIi8+PC9zdmc+" alt="X" title="X" height="45" /></a>&nbsp;&nbsp;<a href="https://i-subedi.com.np"><img src="https://api.iconify.design/mdi/web.svg?color=%232E86AB&height=45" alt="Portfolio" title="Portfolio" height="45" /></a>
+<a href="mailto:ishworsubedinetwork@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" height="45" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ishwor-subedi-55613632a/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" height="45" /></a>&nbsp;&nbsp;<a href="https://x.com/ishwoorr"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjQ1IiBoZWlnaHQ9IjQ1Ij48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMiIgZmlsbD0iIzAwMDAwMCIvPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xOC45MDEgMS4xNTNoMy42OGwtOC4wNCA5LjE5TDI0IDIyLjg0NmgtNy40MDZsLTUuOC03LjU4NC02LjYzOCA3LjU4NEguNDc0bDguNi05LjgzTDAgMS4xNTRoNy41OTRsNS4yNDMgNi45MzJaTTE3LjYxIDIwLjY0NGgyLjAzOUw2LjQ4NiAzLjI0SDQuMjk4WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMi4yLDIuMikgc2NhbGUoMC44MikiLz48L3N2Zz4=" alt="X" title="X" height="45" /></a>&nbsp;&nbsp;<a href="https://i-subedi.com.np"><img src="https://api.iconify.design/mdi/web.svg?color=%232E86AB&height=45" alt="Portfolio" title="Portfolio" height="45" /></a>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## About
 
-I spent 8 to 9 months as a data analyst, working in Python, SQL, and Power BI to turn raw numbers into KPIs a business could act on. That work is what pulled me toward building the systems behind the data, not just reporting on it, so I've been growing into full stack development and automation since, with real projects behind it rather than tutorials.
+Full stack developer, automation builder, and data analyst, all in one. Before this, I spent 8 to 9 months as a data analyst working in Python, SQL, and Power BI, and that grounding is still part of how I build today. Open to full stack development, automation, and data or business analysis opportunities.
 
 <table>
 <tr>
@@ -65,7 +65,7 @@ Scattered numbers turned into dashboards that keep answering the same question o
 
 <img src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23F2C811&height=32" alt="Power BI" title="Power BI" height="32" />&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/pandas.svg?color=%23150458&height=32" alt="Pandas" title="Pandas" height="32" />&nbsp;&nbsp;<img src="https://api.iconify.design/simple-icons/numpy.svg?color=%23013243&height=32" alt="NumPy" title="NumPy" height="32" />&nbsp;&nbsp;<img src="https://api.iconify.design/devicon/matplotlib.svg?height=32" alt="Matplotlib" title="Matplotlib" height="32" />&nbsp;&nbsp;<img src="https://api.iconify.design/devicon/seaborn.svg?height=32" alt="Seaborn" title="Seaborn" height="32" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github,docker" alt="GitHub and Docker" />
 
-<sub>Tools and frameworks I've worked with across projects so far, still growing this list as I take on new work.</sub>
+<sub>Framework agnostic by design. The stack above is what I reach for most across these projects.</sub>
 
 <br>
 
