@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2500&pause=1200&color=2E86AB&center=true&vCenter=true&width=640&lines=Code.+Automate.+Analyze.;Full+Stack+Developer.+Automation+Builder.+Data+Analyst.;Open+to+data+%26+business+analysis+too." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=1200&color=2E86AB&center=true&vCenter=true&width=760&lines=Code.+Automate.+Analyze.;Full+Stack+Developer%2C+Automation+Builder%2C+Data+Analyst.;Currently+engaged+as+a+Full+Stack+Developer." alt="Typing animation" />
 
-Full stack developer, automation builder, and data analyst, all in one. Grounded in 8 to 9 months of hands on data analyst experience, still part of how I work today. Open to full stack development, automation, and data or business analysis opportunities.
+Full stack developer, automation builder, and data analyst, all in one. Currently engaged as a Full Stack Developer, building products, automation, and the analytics layer on top of them. Open to full stack development, automation, and data or business analysis opportunities.
 
-<a href="mailto:ishworsubedinetwork@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" height="45" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ishwor-subedi-55613632a/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" height="45" /></a>&nbsp;&nbsp;<a href="https://x.com/ishwoorr"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjQ1IiBoZWlnaHQ9IjQ1Ij48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMiIgZmlsbD0iIzAwMDAwMCIvPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xOC45MDEgMS4xNTNoMy42OGwtOC4wNCA5LjE5TDI0IDIyLjg0NmgtNy40MDZsLTUuOC03LjU4NC02LjYzOCA3LjU4NEguNDc0bDguNi05LjgzTDAgMS4xNTRoNy41OTRsNS4yNDMgNi45MzJaTTE3LjYxIDIwLjY0NGgyLjAzOUw2LjQ4NiAzLjI0SDQuMjk4WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMi4yLDIuMikgc2NhbGUoMC44MikiLz48L3N2Zz4=" alt="X" title="X" height="45" /></a>&nbsp;&nbsp;<a href="https://i-subedi.com.np"><img src="https://api.iconify.design/mdi/web.svg?color=%232E86AB&height=45" alt="Portfolio" title="Portfolio" height="45" /></a>
+<a href="mailto:ishworsubedinetwork@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email" height="45" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ishwor-subedi-55613632a/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" height="45" /></a>&nbsp;&nbsp;[**X**](https://x.com/ishwoorr)&nbsp;&nbsp;<a href="https://i-subedi.com.np"><img src="https://api.iconify.design/mdi/web.svg?color=%232E86AB&height=45" alt="Portfolio" title="Portfolio" height="45" /></a>
 
 </div>
 
@@ -12,7 +12,7 @@ Full stack developer, automation builder, and data analyst, all in one. Grounded
 
 ## About
 
-Full stack developer, automation builder, and data analyst, all in one. Before this, I spent 8 to 9 months as a data analyst working in Python, SQL, and Power BI, and that grounding is still part of how I build today. Open to full stack development, automation, and data or business analysis opportunities.
+Full stack developer, automation builder, and data analyst, all in one. Currently engaged as a Full Stack Developer, with a background in data analysis using Python, SQL, and Power BI that's still part of how I build today. Open to full stack development, automation, and data or business analysis opportunities.
 
 <table>
 <tr>
