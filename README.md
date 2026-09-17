@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2500&pause=1200&color=2E86AB&center=true&vCenter=true&width=760&lines=Code.+Automate.+Analyze.;Full+Stack+Developer%2C+Automation+Builder%2C+Data+Analyst.;Currently+engaged+as+a+Full+Stack+Developer." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com/? font=Fira+Code&weight=500&size=20&duration=2500&pause=1200&color=2E86AB&center=true&vCenter=true&width=760&lines=Code.+Automate.+Analyze.;Full+Stack+Developer%2C+Automation+Builder%2C+Data+Analyst.;Currently+engaged+as+a+Full+Stack+Developer." alt="Typing animation" />
 
 Full stack developer, automation builder, and data analyst, all in one. Currently engaged as a Full Stack Developer, building products, automation, and the analytics layer on top of them. Open to full stack development, automation, and data or business analysis opportunities.
 
